@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
 
         BlaBLaBLa blueeww = new BlaBLaBLa();
         String ad=blueeww.bluebluew("MGP");
-
+        System.out.println("sdsd");
         bdfdsftn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
